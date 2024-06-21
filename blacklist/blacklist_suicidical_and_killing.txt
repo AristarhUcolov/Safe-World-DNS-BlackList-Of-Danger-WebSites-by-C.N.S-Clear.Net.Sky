@@ -4,4 +4,4 @@
 ! Homepage: https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear-Net-Sky
 ! Raw: https://raw.githubusercontent.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear-Net-Sky/main/blacklist/blacklist_suicidical_and_killing.txt
 
-gorecenter.com
+||gorecenter.com^

@@ -26,3 +26,6 @@
 ||*.guro.cx^
 ||terroristmedia.com^
 ||deathplz.com^
+
+! Dangerous PornoGraphic Sites In The World
+||bestrealrapeporn.com^

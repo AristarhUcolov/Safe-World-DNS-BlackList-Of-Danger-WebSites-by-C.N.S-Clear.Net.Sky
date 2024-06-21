@@ -1,0 +1,7 @@
+!
+! Title: Safe World DNS-BlackList Of-Danger WebSites by C.N.S Clear-Net-Sky
+! Description: List for preventing smart TVs from sending metadata to the vendor, and for blocking ads in apps and movie services
+! Homepage: https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear-Net-Sky
+!
+
+gorecenter.com

@@ -7,10 +7,13 @@
 ! BlackList of Most Danger Sites In The World
 ||gorecenter.com^
 ||deadhouse.xyz^
-||https://www.livegore.com/^
-||http://deadhouse.org/^
+||www.livegore.com/^
+||deadhouse.org/^
 ||alivegore.com^
 ||xgore.net^
 ||goresee.com^
 ||goreflix.com^
 ||cutedeadguys.net^
+||bfmlethalsleeperholds.runboard.com^
+||goregrish.com^
+||uncoveringtheworld.wordpress.com^

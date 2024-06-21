@@ -4,5 +4,13 @@
 ! Homepage: https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky
 !
 
+! BlackList of Most Danger Sites In The World
 ||gorecenter.com^
 ||deadhouse.xyz^
+||https://www.livegore.com/^
+||http://deadhouse.org/^
+||alivegore.com^
+||xgore.net^
+||goresee.com^
+||goreflix.com^
+||cutedeadguys.net^

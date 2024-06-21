@@ -1,7 +1,7 @@
 !
-! Title: Safe World DNS-BlackList Of-Danger WebSites by C.N.S Clear-Net-Sky
+! Title: Safe World DNS-BlackList Of-Danger WebSites by C.N.S Clear Net Sky
 ! Description: Blacklist of sites of Extremely Suicidical or with Killing People
-! Homepage: https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear-Net-Sky
+! Homepage: https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky
 !
 
 ||gorecenter.com^

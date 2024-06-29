@@ -12,5 +12,6 @@
 
 ## RAW: [Copy Link for Block](https://raw.githubusercontent.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/main/blacklist/blacklist_suicidical_and_killing.txt)
 
-# The Future with CyberSecurity Protection of The All World | Будущее с Кибербезопасностью всего Мира.
+# The Future with CyberSecurity Protection of The All World | 
+# Будущее с Кибербезопасностью всего Мира.
 ![image](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/assets/56760026/82c7cf31-9d67-40fd-8698-e5b70721c81d)

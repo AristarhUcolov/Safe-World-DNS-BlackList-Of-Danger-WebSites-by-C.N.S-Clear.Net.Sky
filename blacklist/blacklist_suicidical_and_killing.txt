@@ -33,6 +33,20 @@
 ||nationalenquirer.com^
 ||old.reddit.com^
 
+! Strange Sites Trigger
+||abandoned-places.com^
+||4stor.ru^
+||staggeringbeauty.com^
+||nightmare.mit.edu^
+||yyyyyyy.info^
+||wwwww.jodi.org^
+||jodi.org^
+||hashima-island.co.uk^
+||deathdate.info^
+||scpfoundation.net^
+||deathandhell.com^
+||973-eht-namuh-973.com^
+
 ! Dangerous PornoGraphic Sites In The World
 ||bestrealrapeporn.com^
 ||novids.com^

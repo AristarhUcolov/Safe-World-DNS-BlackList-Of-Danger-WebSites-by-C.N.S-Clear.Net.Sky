@@ -7,8 +7,8 @@
 ! BlackList of Most Danger Sites In The World
 ||gorecenter.com^
 ||deadhouse.xyz^
-||livegore.com/^
-||deadhouse.org/^
+||livegore.com^
+||deadhouse.org^
 ||alivegore.com^
 ||xgore.net^
 ||goresee.com^

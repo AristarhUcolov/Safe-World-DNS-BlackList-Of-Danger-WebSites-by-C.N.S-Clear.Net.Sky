@@ -24,20 +24,23 @@
 ||sadistic.pl^
 ||watchpeopledie.tv^
 ||*.guro.cx^
+||guro.cx^
 ||terroristmedia.com^
 ||deathplz.com^
+||findadeath.com^
+||autopsyfiles.org^
+||documentingreality.com^
+||nationalenquirer.com^
 
 ! Dangerous PornoGraphic Sites In The World
 ||bestrealrapeporn.com^
 ||novids.com^
 ||xxtub.com^
 ||worldporn18.com^
+||femboy.com^
+||femboyx.com^
+||femboy.jp^
 ||nitter.poast.org^
 ||forum.bodybuilding.com^
 ||banana.by^
 ||m.joyreactor.cc^
-||femboy.com^
-||femboyx.com^
-
-! Dangerous Sites That May Harm Civilians In The Future
-||femboy.jp^

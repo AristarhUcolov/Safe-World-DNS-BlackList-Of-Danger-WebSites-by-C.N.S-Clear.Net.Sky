@@ -106,7 +106,7 @@
 ||biying865465.com^
 ||biying865465.com:30120^
 
-! Trust Site With Obtain a OverSkip
+! Dangerous Sites With Obtain a OverSkip
 ||old.reddit.com^
 ||twitter.yandex.com^
 ||twitter.yandex.com.tr^

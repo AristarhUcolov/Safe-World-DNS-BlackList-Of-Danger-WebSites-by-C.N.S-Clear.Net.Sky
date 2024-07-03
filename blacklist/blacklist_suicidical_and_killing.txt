@@ -111,3 +111,13 @@
 ||twitter.yandex.com^
 ||twitter.yandex.com.tr^
 ||twitter.yandex.*^
+
+! Dangerous Sites Of Alternative Double-Link Finder
+||sotwe.com^
+
+! Dangerous Sites In The World Of Dating-Watch
+||fapodrop.com^
+||fansly.com^
+
+! Dangerous Sites In The World Of AI Who Make Unfeeling Steal
+||outfitswap.ai^

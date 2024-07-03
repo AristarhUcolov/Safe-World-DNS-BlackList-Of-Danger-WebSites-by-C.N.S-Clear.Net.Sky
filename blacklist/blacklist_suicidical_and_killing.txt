@@ -31,7 +31,6 @@
 ||autopsyfiles.org^
 ||documentingreality.com^
 ||nationalenquirer.com^
-||old.reddit.com^
 
 ! Strange Sites Trigger
 ||abandoned-places.com^
@@ -62,6 +61,17 @@
 ||lolshock.com^
 ||LiveLeak.com^
 ||strana-krovi.com^
+||equibooru.eu^
+||disp.cc^
+||99vv19.com^
+||xn--o9j0bk1914a8b2b.com^
+||bokete.jp^
+||souyoutu.com^
+||monsterbusterclub.tv^
+||bucolyse.com.br^
+||bucolyse.com^
+||eblyahub.ru^
+||adults.ce-connect.net^
 
 ! Dangerous PornoGraphic Sites In The World
 ||bestrealrapeporn.com^
@@ -75,3 +85,29 @@
 ||forum.bodybuilding.com^
 ||banana.by^
 ||m.joyreactor.cc^
+||umabi.jp^
+||spinach-boy.itch.io^
+||telegra.ph^
+||eropuru.com^
+||dmm.co.jp^
+||demotywatory.pl^
+||fapreactor.com^
+
+! Dangerous Casino Sites In The World
+||ktx256.cc^
+||6525748.cc:8443^
+||3654598.cc:8443^
+||3836479.cc:8443^
+||6525748.cc^
+||3654598.cc^
+||3836479.cc^
+||hg28271.com^
+||495a95.com^
+||biying865465.com^
+||biying865465.com:30120^
+
+! Trust Site With Obtain a OverSkip
+||old.reddit.com^
+||twitter.yandex.com^
+||twitter.yandex.com.tr^
+||twitter.yandex.*^

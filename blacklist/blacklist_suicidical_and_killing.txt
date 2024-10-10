@@ -3,8 +3,9 @@
 ! Description: Blacklist of sites of Extremely Suicidical or with Killing People and Pornographical Sites Who Make To Suicid
 ! Goal: Protect People or Self-Protect Your Mind and Health With BLackList of DNS | Stay Safe and Stay With Health Mind
 ! Homepage: https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky
-! All Protection by Organization C.N.S [ Clear-Net-Sky ]
-!
+! All Protection by Organization C.N.S [ Clear-Net-Sky ] colaborated with Safe-Mind Proj.
+! All sites is added by Technical Supports [20 Online-Supporters] or AI ( Artificial Intelligence which check all sites every day )
+! If you found danger or strange sites [ex. 18+, virus, phishing and all], write on the Requests/Issues and support will check.
 
 ! BlackList of Most Danger Sites In The World
 ||gorecenter.com^
@@ -142,10 +143,24 @@
 ||sextube.rodeo^
 ||mouwagroap.com^
 
-! Safe From Movie Finder P
+! Blocking From Finder Engines and Search System
 ||sfilm.hu^
 ||fishki.net^
 ||themoviedb.org^
+||bestthots.com^
+||fansfan.com^
+||themaryburke.com^
+||bunkr.si^
+||seekfans.com^
+||sliv-onlyfans.ru^
+||4leaked.com^
+||imginn.com^
+||urlebird.com^
+||xxk.mobi^
+||thotporn.tv^
+||4k-video.ru^
+||leaks.photos^
+||smotryashka.ru^
 
 ! Dangerous Casino Sites In The World
 ||ktx256.cc^

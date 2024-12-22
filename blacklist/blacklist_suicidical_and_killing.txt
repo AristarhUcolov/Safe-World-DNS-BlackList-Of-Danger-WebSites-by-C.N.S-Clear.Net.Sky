@@ -185,6 +185,9 @@
 ! Dangerous Sites Of Alternative Double-Link Finder
 ||sotwe.com^
 
+! Dangerous Ads-Sites (Dark-Ads)
+||fanty.online^
+
 ! Dangerous Sites In The World Of Dating-Watch
 ||fapodrop.com^
 ||fansly.com^

@@ -34,6 +34,8 @@
 ||autopsyfiles.org^
 ||documentingreality.com^
 ||nationalenquirer.com^
+||gorecenter.net^
+||gorecenter.ws^
 
 ! Strange Sites Trigger
 ||abandoned-places.com^

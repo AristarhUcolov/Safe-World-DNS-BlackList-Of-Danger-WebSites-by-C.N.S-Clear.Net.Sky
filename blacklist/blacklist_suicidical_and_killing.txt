@@ -205,3 +205,6 @@
 
 ! Dangerous Sites For Stealing Data And Logs ( Stay Safe and Stay Healthy )
 ||exi.link^
+
+! Dangerous Sites of AI ( NSFW + Dangers for Mind )
+||iask.ai^

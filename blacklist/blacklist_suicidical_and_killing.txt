@@ -36,6 +36,7 @@
 ||nationalenquirer.com^
 ||gorecenter.net^
 ||gorecenter.ws^
+||died.com^
 
 ! Strange Sites Trigger
 ||abandoned-places.com^

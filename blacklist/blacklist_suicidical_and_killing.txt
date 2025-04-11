@@ -47,6 +47,11 @@
 ! In short: people are turning into what we call "cute maniacs" or are forming cults related to killings.
 ||spacehey.com^ ! leads to suicide and affects psychological aspects of adolescents
 ||myspace.com^ ! suspicious people were recorded
+||urlebird.com^ 
+
+! BlackList Of Sites under the term "STALKER", Anti-Stalker List
+||instalker.org^
+||twstalker.com^
 
 ! Strange Sites Trigger
 ||abandoned-places.com^

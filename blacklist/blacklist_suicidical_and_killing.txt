@@ -349,7 +349,10 @@
 ||community.pflag.org^
 ||www.straightforequality.org^
 ||williamsinstitute.law.ucla.edu^
-
+||mayoclinic.org^
+||nhs.uk^
+||hopkinsmedicine.org^
+||transcare.ucsf.edu^
 
 ! Blocking From Finder Engines and Search System
 ||sfilm.hu^

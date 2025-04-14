@@ -353,6 +353,7 @@
 ||nhs.uk^
 ||hopkinsmedicine.org^
 ||transcare.ucsf.edu^
+||shop.qx.se^ ! WebSite-Place of heresy, DEUS VULT!
 
 ! Blocking From Finder Engines and Search System
 ||sfilm.hu^

@@ -163,8 +163,12 @@
 
 ! BlackList of Crypto-Scam ( Checked by Alternative FreeLancers [ Supporters ]: In_Spy_Incognito and OpcoderSecurity )
 ||bingx.com^
+||bingx.pro^
 ||croco-ex.ru^
 ||okx.com^
+
+! BlackList of VideoUploader with Suspicious Activity
+||odysee.com^
 
 ! BlackList of Credits Banks [ Thanks to OpcoderSecurity for ideas ] ( Term ,, Just work, don't take easy money, because the time will come to pay it back. '' )
 ||linkbank.com^

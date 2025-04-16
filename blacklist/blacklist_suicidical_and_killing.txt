@@ -161,6 +161,39 @@
 ||sextube.rodeo^
 ||mouwagroap.com^
 
+! BlackList of Credits Banks [ Thanks to OpcoderSecurity for ideas ] ( Term ,, Just work, don't take easy money, because the time will come to pay it back. '' )
+||linkbank.com^
+||centrofinans.ru^
+||banki.ru^
+||kmf.kz^
+||ecb.eu^ropa.eu^
+||solva.kz^
+||sravni.go2cloud.org^
+||joy.money
+||sravni.ru^
+||credistory.ru^
+||creditprime.md^
+||zaymigo.ru^
+||vsezaimyonline.ru^
+||partner.creditprime.md^
+||займы.рф^
+||creditulka.com^
+||kviku.ru^
+||flexcredit.md^
+||dacredit.md^
+||credit365.md^
+||imprumut.md^
+||vyruchaidengi.ru^
+||korona.ru^
+||microinvest.md^
+||procreditbank.md^
+||banklab.ru^
+||credit7.md^
+||rapidfinance.md^
+||sebo.md^
+||ecredit.md^
+
+
 ! BlackList of WebSites shops that lure people, teenagers and turn them into future people with depression. Notice: Mostly in adolescence they do not understand what they are doing, and then they regret and the result: Suicide, death and depression. Usually these types of people fall into the clutches of cartels.
 ||femzai.com^
 ||foxblood.com*

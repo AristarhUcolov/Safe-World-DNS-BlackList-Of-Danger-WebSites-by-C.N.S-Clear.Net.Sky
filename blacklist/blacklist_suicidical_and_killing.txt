@@ -166,6 +166,9 @@
 ||foxblood.com*
 ||shopmyviolet.com^
 
+! BlackList of WebSites Characters Maker ,, They create Strange Characters and dream of being them. ''
+||toyhou.se^
+
 ! NSFW Blocking ( Blocking all sites with 18+ and all strangers posts and content. ) // Thanks for the idea to OpcoderSecurity and Project2025 = Make The World Great Again =)
 ! Make Mind of People Great Again [ Back 1950s Science and Smart People ]
 ! Video For those who drag the world to the bottom: https://www.youtube.com/watch?v=MmqNiFJyI28 ( Educational video of Scientists of the 50s. People used to be smart and reasoned intelligently and with religious understanding, we need to bring back those times.

@@ -458,6 +458,22 @@
 ! Dangerous Sites In The World Of AI Who Make Unfeeling Steal
 ||outfitswap.ai^
 
+!! BlackList of AI with make NSFW ( Updated: by Bot_Spy | 13:50 | 24.04.2025 | data_saved [#5935] )
+||undressly.com^
+||app.undressly.ai^
+||hotgens.com^
+||nsfwbots.com^
+||nsfwcharacter.ai^
+||elyza.app^
+||myanima.ai^
+||nastia.ai^
+||secretdesires.ai^
+||texthub.me^
+||woowell.ai^
+||aigirlfriend.tw^
+||krush.chat^
+||xjoy.ai^
+
 ! Dangerous Sites For Stealing Data And Logs ( Stay Safe and Stay Healthy )
 ||exi.link^
 

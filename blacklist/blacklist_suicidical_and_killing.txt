@@ -32,6 +32,8 @@
 ||deathplz.com^
 ||findadeath.com^
 ||autopsyfiles.org^
+||fuckyea.com^
+||adsco.re^
 ||documentingreality.com^
 ||nationalenquirer.com^
 ||gorecenter.net^

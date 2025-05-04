@@ -47,8 +47,11 @@
 ! According to my data and the data of my colleagues from an unofficial civil organization for the protection of citizens in the field of cybersecurity, founded in 2019 during the quarantine period—SafeSecurity-Mind
 ! We have been studying civilians and documenting that there are mass crimes occurring, related to cults, the induction of psychological issues in teenagers, as well as strange actions connected with minors.
 ! In short: people are turning into what we call "cute maniacs" or are forming cults related to killings.
-||spacehey.com^ ! leads to suicide and affects psychological aspects of adolescents
-||myspace.com^ ! suspicious people were recorded
+! =====
+! leads to suicide and affects psychological aspects of adolescents
+||spacehey.com^
+||myspace.com^
+! suspicious people were recorded
 ||urlebird.com^ 
 
 ! BlackList Of Sites under the term "STALKER", Anti-Stalker List
@@ -400,7 +403,8 @@
 ||nhs.uk^
 ||hopkinsmedicine.org^
 ||transcare.ucsf.edu^
-||shop.qx.se^ ! WebSite-Place of heresy, DEUS VULT!
+! WebSite-Place of heresy, DEUS VULT!
+||shop.qx.se^
 ||bangbang.md^
 ||queercafe.md^
 

@@ -482,6 +482,8 @@
 ||_sips._tcp.md-orange.rcs.telephony.goog*
 ||md-orange.rcs.telephony.goog*
 ||*.md-orange.rcs.telephony.goog*
+||*.rcs.telephony.goog*
+||*.telephony.goog*
 
 ! Dangerous Sites For Stealing Data And Logs ( Stay Safe and Stay Healthy )
 ||exi.link^

@@ -478,6 +478,11 @@
 ||krush.chat^
 ||xjoy.ai^
 
+! Anti-Spying by Providers
+||_sips._tcp.md-orange.rcs.telephony.goog*
+||md-orange.rcs.telephony.goog*
+||*.md-orange.rcs.telephony.goog*
+
 ! Dangerous Sites For Stealing Data And Logs ( Stay Safe and Stay Healthy )
 ||exi.link^
 

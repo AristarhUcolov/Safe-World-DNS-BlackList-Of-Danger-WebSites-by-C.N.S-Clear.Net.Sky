@@ -41,7 +41,7 @@
 ||died.com^
 ||xgore.ws^
 ||deadhouse.ws^
-||goreflix.ws*
+||goreflix.ws^
 
 ! BlackList oF Sites under the term "cute maniacs" ( Read The Documentation for the More Information )
 ! According to my data and the data of my colleagues from an unofficial civil organization for the protection of citizens in the field of cybersecurity, founded in 2019 during the quarantine period—SafeSecurity-Mind
@@ -479,11 +479,11 @@
 ||xjoy.ai^
 
 ! Anti-Spying by Providers
-||_sips._tcp.md-orange.rcs.telephony.goog*
-||md-orange.rcs.telephony.goog*
-||*.md-orange.rcs.telephony.goog*
-||*.rcs.telephony.goog*
-||*.telephony.goog*
+||_sips._tcp.md-orange.rcs.telephony.goog^
+||md-orange.rcs.telephony.goog^
+||*.md-orange.rcs.telephony.goog^
+||*.rcs.telephony.goog^
+||*.telephony.goog^
 
 ! Dangerous Sites For Stealing Data And Logs ( Stay Safe and Stay Healthy )
 ||exi.link^
@@ -1300,7 +1300,6 @@
 ||3reg39xtkp.adobestats.io^
 ||quij2u03a1.adobestats.io^
 ||xo9j8bcw4a.adobe.io^
-||^
 ||3.233.129.217^
 ||192.150.14.69^
 ||192.150.18.101^

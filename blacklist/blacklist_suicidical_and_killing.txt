@@ -89,6 +89,15 @@
 ||deepgoretube.site^
 ||damagedcorpse.com^
 ||seegore.com^
+||ww12.uncoverreality.com^
+||uncoverreality.com^
+||pwnographic.net^
+||ogrish.com^
+||itemfix.com^
+||worldstar.com^
+||worldstarhiphop.com^
+||contact.worldstar.com^
+||*.worldstar.com^
 
 ! BlackList oF Sites under the term "cute maniacs" ( Read The Documentation for the More Information )
 ! According to my data and the data of my colleagues from an unofficial civil organization for the protection of citizens in the field of cybersecurity, founded in 2019 during the quarantine period—SafeSecurity-Mind

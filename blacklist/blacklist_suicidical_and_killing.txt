@@ -42,6 +42,28 @@
 ||xgore.ws^
 ||deadhouse.ws^
 ||goreflix.ws^
+||goresee.com^
+||goregrish.com^
+||bestgore.com^
+||theync.com^
+||herdeaths.net^
+||deepgoretube.site^
+||xgore.net^
+||livegore.com^
+||goresee.com^
+||alivegore.com^
+||seegore.com^
+||kaotic.com^
+||deathdate.info^
+||scaryforkids.com^
+||documentingreality.com^
+||crazyshit.com^
+||rotten.com^
+||alivegore.com^
+||creepypasta.com^
+||deadhouse.org^
+||killsometime.com^
+||goredb.com^
 
 ! BlackList oF Sites under the term "cute maniacs" ( Read The Documentation for the More Information )
 ! According to my data and the data of my colleagues from an unofficial civil organization for the protection of citizens in the field of cybersecurity, founded in 2019 during the quarantine period—SafeSecurity-Mind

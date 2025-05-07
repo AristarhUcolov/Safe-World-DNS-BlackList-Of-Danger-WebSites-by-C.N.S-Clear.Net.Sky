@@ -268,7 +268,7 @@
 
 ! BlackList of WebSites shops that lure people, teenagers and turn them into future people with depression. Notice: Mostly in adolescence they do not understand what they are doing, and then they regret and the result: Suicide, death and depression. Usually these types of people fall into the clutches of cartels.
 ||femzai.com^
-||foxblood.com*
+||foxblood.com^
 ||shopmyviolet.com^
 
 ! BlackList of WebSites Characters Maker ,, They create Strange Characters and dream of being them. ''

@@ -156,6 +156,9 @@
 ||bestrealrapeporn.com^
 ||novids.com^
 ||xxtub.com^
+||pornhub.com^
+||xnxx.com^
+||xvideos.com^
 ||worldporn18.com^
 ||femboy.com^
 ||femboyx.com^
@@ -225,6 +228,9 @@
 ||ohmature.pro^
 ||sextube.rodeo^
 ||mouwagroap.com^
+
+! Fake-WebSites like a News-WebSites in Search Engines
+||zacknation.net^
 
 ! BlackList of Crypto-Scam ( Checked by Alternative FreeLancers [ Supporters ]: In_Spy_Incognito and OpcoderSecurity )
 ||bingx.com^

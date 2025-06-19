@@ -152,6 +152,17 @@
 ||yaplakal.com^
 ||yadolee.com^
 
+! DNS Anti-Virus ( C.N.S - Clear Net Sky by All Checkers Net )
+! By way, this simple Loader ( RAT ) from 2016 but now it's become mainstream, all links added.
+||webrat.in^
+||webrat.ru^
+||webrat.com^
+||webrat.su^
+||webr.at^
+||nyashteam.ru^
+||nyashteamshop.ru^
+
+
 ! Dangerous PornoGraphic Sites In The World
 ||bestrealrapeporn.com^
 ||novids.com^

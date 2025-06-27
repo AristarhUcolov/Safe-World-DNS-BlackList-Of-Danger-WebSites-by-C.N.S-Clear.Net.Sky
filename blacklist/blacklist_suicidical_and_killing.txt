@@ -194,8 +194,19 @@
 ||adults.ce-connect.net^
 ||gaytwinks.club^
 ||amateurporntape.com^
+||ads.iknowthatgirl.com^
+||ads.whippedass.com^
+||adult-dating-ads.com^
+||adult-extreme.com^
 ||boyporntube.com^
 ||bragx.com^
+||sexandfunforum.info^
+||85.17.187.83^
+||ad1.doublepimp.com^
+||ad2.doublepimp.com^
+||adameve.com^
+||ads.4tube.com^
+||ads.adtube.com^
 ||datesissy.com^
 ||xrares.org^
 ||femboyfatale.com^
@@ -569,6 +580,7 @@
 ||*.md-orange.rcs.telephony.goog^
 ||*.rcs.telephony.goog^
 ||*.telephony.goog^
+||hellofuture.orange.com^
 
 ! Dangerous Sites For Stealing Data And Logs ( Stay Safe and Stay Healthy )
 ||exi.link^

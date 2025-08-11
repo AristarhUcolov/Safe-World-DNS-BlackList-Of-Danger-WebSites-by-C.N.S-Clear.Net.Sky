@@ -261,6 +261,25 @@
 ||tv.rakuten.jp^
 ||tv.rakuten.co^
 ||*.rakuten.*^
+||video.unext.jp^
+||vch.jp^
+||mlbpark.donga.com^
+||doga.hikakujoho.com^
+||apc00.com^
+||inmou.com^
+||rvyc4.com^
+||qtzyy1008.com^
+||ghxkyvq1008.vip^
+||58xinfan.com^
+||viphhk.com^
+||agent.yelaixiang99.com^
+||nanrenleyuan.com^
+||rvyc.com^
+||bookmeter.com^
+||img.jpg4.monster^
+||idol56.com^
+||setflix.co.kr^
+||setflixoriginal.com^
 
 ! Fake-WebSites like a News-WebSites in Search Engines
 ||zacknation.net^
@@ -1662,5 +1681,6 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+
 
 

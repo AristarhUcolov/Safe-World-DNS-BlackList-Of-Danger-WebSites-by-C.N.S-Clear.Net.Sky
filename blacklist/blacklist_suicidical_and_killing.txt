@@ -307,6 +307,8 @@
 ||sebo.md^
 ||ecredit.md^
 
+! BlackList of Video-Hosting
+||dailymotion.com^
 
 ! BlackList of WebSites shops that lure people, teenagers and turn them into future people with depression. Notice: Mostly in adolescence they do not understand what they are doing, and then they regret and the result: Suicide, death and depression. Usually these types of people fall into the clutches of cartels.
 ||femzai.com^
@@ -1660,4 +1662,5 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+
 

@@ -253,6 +253,14 @@
 ||ohmature.pro^
 ||sextube.rodeo^
 ||mouwagroap.com^
+! Under Japan Region
+||videomarket.jp^
+||tv.rakuten.co.jp^
+||rakuten.co.jp^
+||rakuten.co^
+||tv.rakuten.jp^
+||tv.rakuten.co^
+||*.rakuten.*^
 
 ! Fake-WebSites like a News-WebSites in Search Engines
 ||zacknation.net^
@@ -1652,3 +1660,4 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+

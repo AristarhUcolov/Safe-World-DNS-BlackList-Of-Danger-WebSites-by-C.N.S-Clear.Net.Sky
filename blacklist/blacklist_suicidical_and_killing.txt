@@ -280,6 +280,20 @@
 ||idol56.com^
 ||setflix.co.kr^
 ||setflixoriginal.com^
+||ruten.com.tw^
+||mgsgirls.com^
+||*.evpuke.net^
+||595vip.cc^
+||58xinfan.com^
+||cdltdk.com^
+||uuribao.org^
+||sohu.com^
+||namu.wiki^
+||detail.chiebukuro.yahoo.co.jp^
+||suruga-ya.jp^
+||eroeropv.com^
+||av-league.com^
+||dmm.co.jp^
 
 ! Fake-WebSites like a News-WebSites in Search Engines
 ||zacknation.net^
@@ -1681,6 +1695,7 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+
 
 
 

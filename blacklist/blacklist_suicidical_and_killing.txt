@@ -597,6 +597,7 @@
 ||colorfans.com.ar^
 ||colorfans.com.*^
 ||colormusic.cl^
+||smotri.com^
 
 ! Dangerous Sites In The World Of AI Who Make Unfeeling Steal
 ||outfitswap.ai^
@@ -1695,6 +1696,7 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+
 
 
 

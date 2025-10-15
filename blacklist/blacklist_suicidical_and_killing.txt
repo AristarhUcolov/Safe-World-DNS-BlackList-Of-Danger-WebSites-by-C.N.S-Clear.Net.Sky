@@ -152,6 +152,14 @@
 ||yaplakal.com^
 ||yadolee.com^
 
+! Dangerous WebSites ( Used for Stealing People Data & Multy-Scam )
+||gologin.com^
+
+! Dangerous WebSite used by Scammers to Stealing Data Information ( Message-Stealer & Data Leak )
+||sendgrid.net^
+||*.sendgrid.net^
+||sendgrid.*^
+
 ! DNS Anti-Virus ( C.N.S - Clear Net Sky by All Checkers Net )
 ! By way, this simple Loader ( RAT ) from 2016 but now it's become mainstream, all links added.
 ||webrat.in^
@@ -1696,6 +1704,7 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+
 
 
 

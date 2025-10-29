@@ -648,9 +648,16 @@
 ! Dangerous Fake Telegram Websites ( Used by Another Organizations for Stealing Data & Privacy Information )
 ||web.tel.onl^
 ||wтелеграм.онлайн^
+||телеграм.онлайн^
 ||web.tlgrm.app^
 ||webogram.org^
 ||web-telegram.ru^
+||tlgrm.ru^
+||webtelegram.nicepage.io^
+||telegram-web.en.softmany.com^
+
+! Dangerous WebSites Which Distrbuited Free-Software ( Trojans & ADS Malwares Data )
+||softmany.com^
 
 ! BlackList of Spying Resources
 ||mojiva.org^
@@ -1716,6 +1723,7 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+
 
 
 

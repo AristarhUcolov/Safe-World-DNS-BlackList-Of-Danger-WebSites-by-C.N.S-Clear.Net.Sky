@@ -154,6 +154,11 @@
 
 ! Dangerous WebSites ( Used for Stealing People Data & Multy-Scam )
 ||gologin.com^
+||multilogin.com^
+||911proxy^
+||proxy4free^
+||proxys.io^
+||omegaproxy.com^
 
 ! Dangerous WebSite used by Scammers to Stealing Data Information ( Message-Stealer & Data Leak )
 ||sendgrid.net^
@@ -639,6 +644,13 @@
 
 ! Dangerous Sites of AI ( NSFW + Dangers for Mind )
 ||iask.ai^
+
+! Dangerous Fake Telegram Websites ( Used by Another Organizations for Stealing Data & Privacy Information )
+||web.tel.onl^
+||wтелеграм.онлайн^
+||web.tlgrm.app^
+||webogram.org^
+||web-telegram.ru^
 
 ! BlackList of Spying Resources
 ||mojiva.org^
@@ -1704,6 +1716,7 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+
 
 
 

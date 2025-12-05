@@ -165,6 +165,25 @@
 ||*.sendgrid.net^
 ||sendgrid.*^
 
+! Dangerous Blacklist of Video Hosting who distribute pornography.
+||leomus.ru^
+||tvigle.ru^
+||rezka.ag^
+||kinogo.media^
+||kinogo.online^
+||kinogo.host^
+||kinokong.day^
+||uakino-bay.net^
+||io.gidonline.fun^
+||gidonline.fun^
+||hd.kinogoo.biz^
+||lavakino.cc^
+||k.kinogo-net.la^
+||kinogo.no^
+||erotika-lordfilm.ru^
+||wink.ru^
+||ex-fs.net^
+
 ! DNS Anti-Virus ( C.N.S - Clear Net Sky by All Checkers Net )
 ! By way, this simple Loader ( RAT ) from 2016 but now it's become mainstream, all links added.
 ||webrat.in^
@@ -178,6 +197,7 @@
 
 ! Dangerous PornoGraphic Sites In The World
 ||bestrealrapeporn.com^
+||zzz.brazzporno.store^
 ||novids.com^
 ||xxtub.com^
 ||pornhub.com^

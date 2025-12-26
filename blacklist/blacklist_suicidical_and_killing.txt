@@ -100,6 +100,12 @@
 ||*.worldstar.com^
 ||smlwiki.com^
 ||talktotrevor.com^
+||heavy-r.com^
+||madnessporn.com^
+||*.luxuretv.com^
+||videomonstr.com^
+||thisvid.com^
+||perverttube.com^
 
 ! BlackList oF Sites under the term "cute maniacs" ( Read The Documentation for the More Information )
 ! According to my data and the data of my colleagues from an unofficial civil organization for the protection of citizens in the field of cybersecurity, founded in 2019 during the quarantine period—SafeSecurity-Mind
@@ -1743,6 +1749,7 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+
 
 
 

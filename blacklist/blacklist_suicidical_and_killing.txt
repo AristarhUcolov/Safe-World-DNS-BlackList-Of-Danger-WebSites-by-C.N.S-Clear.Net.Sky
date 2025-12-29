@@ -189,6 +189,27 @@
 ||erotika-lordfilm.ru^
 ||wink.ru^
 ||ex-fs.net^
+||new.kinogo.fi^
+||hd.hdrezka.pl^
+||filmix.my^
+||kinogo.inc^
+||more-kino.info^
+||kinoplenka.info^
+||w.hd-kinogo.co^
+||online.kinoshi.net^
+||hdrezka.by^
+||joster.online^
+||kinostorm.net^
+||kinoflux.cc^
+||kinogo.fit^
+||smaxim.com.ru^
+||smaxim.com^
+||smaxim.com.*^
+||clladss.com^
+||kino-tut.by^
+||kinoplenka.info^
+||эрокино.рф^
+||w140.zona.plus^
 
 ! DNS Anti-Virus ( C.N.S - Clear Net Sky by All Checkers Net )
 ! By way, this simple Loader ( RAT ) from 2016 but now it's become mainstream, all links added.
@@ -333,6 +354,15 @@
 ||eroeropv.com^
 ||av-league.com^
 ||dmm.co.jp^
+||etotops.online^
+||smaxim.com.ru^
+||smaxim.com.*^
+||clladss.com^
+||porevohdz.lol^
+||piski.one^
+||vtrahe.buzz^
+||xcadr.online^
+||movie.duxc.ru^
 
 ! Fake-WebSites like a News-WebSites in Search Engines
 ||zacknation.net^
@@ -1749,6 +1779,7 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+
 
 
 

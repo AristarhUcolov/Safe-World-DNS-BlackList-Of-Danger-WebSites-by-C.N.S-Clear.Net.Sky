@@ -171,6 +171,34 @@
 ||*.sendgrid.net^
 ||sendgrid.*^
 
+!  BlackList of Danger Socia Media with a NSFW Content & Non-Human Illegal Content & Stealing Data
+||bastyon.com^
+||2.pocketnet.app^
+||_8899._https.2.pocketnet.app^
+||peertube358.pocketnet.app^
+||metrix.pocketnet.app^
+||peertube101.pocketnet.app^
+||peertube322.pocketnet.app^
+||peertube800.pocketnet.app^
+||peertube160.pocketnet.app^
+||peertube.archive.pocketnet.app^
+||pocketnet.app^
+||_8092._https.pocketnet.app^
+||peertube601.pocketnet.app^
+||peertube601.pocketnet.app^
+||matrix.2.pocketnet.app^
+||matrix.pocketnet.app^
+||peertube900.pocketnet.app^
+||1.pocketnet.app^
+||p2p.pocketnet.app^
+||peertube701.pocketnet.app^
+||app.swipelux.pocketnet.app^
+||*.pocketnet.app^
+||barteron.club^
+||*.expressturn.com^
+||pkoin.net^
+||3rm.info^
+
 ! Dangerous Blacklist of Video Hosting who distribute pornography.
 ||leomus.ru^
 ||tvigle.ru^
@@ -1779,6 +1807,7 @@
 ||9ngulmtgqi.adobe.io^
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
+
 
 
 

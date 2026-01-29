@@ -12,7 +12,7 @@
 
 ---
 
-<a name="eng"></a>
+<a id="eng"></a>
 ## 🇬🇧 English Version
 
 ### 📋 About
@@ -122,7 +122,11 @@ This blocklist is provided as-is for protective purposes. While we strive for ac
 
 ---
 
-<a name="ru"></a>
+**Stay Safe. Protect Your Mind and Health. 🛡️**
+
+---
+
+<a id="ru"></a>
 ## 🇷🇺 Русская версия
 
 ### 📋 О проекте
@@ -212,8 +216,8 @@ https://raw.githubusercontent.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Dan
 
 ## 🌟 Видение
 
-### Будущее с кибербезопасностью всего мира
 ### The Future with Cybersecurity Protection for the World
+### Будущее с кибербезопасностью всего мира
 
 ![Safe World Banner](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/assets/56760026/82c7cf31-9d67-40fd-8698-e5b70721c81d)
 
@@ -232,5 +236,4 @@ https://raw.githubusercontent.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Dan
 
 ---
 
-**Stay Safe. Protect Your Mind and Health. 🛡️**
 **Будьте в безопасности. Защитите свой разум и здоровье. 🛡️**

@@ -1814,15 +1814,6 @@
 ||flutt9urxr.adobestats.io^
 ||49xq1olxsn.adobestats.io^
 
-
-
-
-
-
-
-
-
-
-
-
-
+! Redirection Blacklist ( Used in the Past for Official WebSites but closed and rebuyed by another person and used for redirection to another WebSite )
+||henrypp.​org^
+||temu.to^
